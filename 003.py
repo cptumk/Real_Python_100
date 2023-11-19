@@ -1,3 +1,5 @@
+# 로봇 배제 표준(robots.txt)
+
 import requests
 
 urls = ["https://www.naver.com/", "https://www.python.org/"]

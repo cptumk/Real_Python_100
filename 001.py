@@ -1,3 +1,5 @@
+# 웹 서버에 요청하고 응답받기
+
 import requests
 
 url = "https://www.python.org/"
